@@ -3,3 +3,6 @@ T아카데미 github 기초 교육과정 예제입니다. (clone용)
 
 # Local Repository
 이것은 지역 저장소에서 작성한 내용입니다.
+
+# SourceTree Exam
+이것은 소스트리 테스트를 위한 내용입니다.
